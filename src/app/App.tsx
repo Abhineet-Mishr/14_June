@@ -73,7 +73,7 @@ export default function App() {
 
   const handleOpenInvitation = () => {
     // Placeholder for invitation link
-    window.open('https://example.com/invitation', '_blank');
+    window.open('https://res.cloudinary.com/dzxvmdsew/image/upload/v1781154288/ChatGPT_Image_Jun_11_2026_10_18_18_AM_n90smf.png', '_blank');
   };
 
   return (
